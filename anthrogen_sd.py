@@ -31,8 +31,8 @@ from google.colab import drive
 def generate_prompts_from_dataframe(source_dataframe, template, concat_with_source=True):
   prompt_dataframe = pd.DataFrame(columns=["model_positive_prompt","model_negative_prompt","model_columns","model_key"])
   # get the column names referenced in the the prompts
-  pos_columns = re.findall("{{{(\w+)}}}",TEMPLATE["positive"])
-  neg_columns = re.findall("{{{(\w+)}}}",TEMPLATE["negative"])
+  pos_columns = re.findall("{{{(\w+)}}}",template["positive"])
+  neg_columns = re.findall("{{{(\w+)}}}",template["negative"])
 
   # for every row in the source_dataframe
   for index, row in source_dataframe.iterrows():
