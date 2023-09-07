@@ -1,63 +1,63 @@
 age,sex,state,combined_race,occupation
 56,Female,District of Columbia,White,Judicial Worker
 46,Female,District of Columbia,Peruvian,Marketing Manager
-82,Male,District of Columbia,White, 
+82,Male,District of Columbia,White,Person
 38,Female,District of Columbia,White,Customer Service Representativ
 36,Male,District of Columbia,Black or African American,Postsecondary Teacher
 51,Female,District of Columbia,Black or African American,Bus Driver
-1,Male,District of Columbia,All Other Spanish/Hispanic/Latino, 
-2,Female,District of Columbia,Salvadoran, 
+1,Male,District of Columbia,All Other Spanish/Hispanic/Latino,Person
+2,Female,District of Columbia,Salvadoran,Person
 30,Female,District of Columbia,All Other Spanish/Hispanic/Latino,Childcare Worker
 28,Male,District of Columbia,White,Manager
 35,Male,District of Columbia,White,Economist
 37,Male,District of Columbia,White,Budget Analyst
 28,Female,District of Columbia,White,Secondary School Teacher
-15,Male,District of Columbia,Panamanian, 
+15,Male,District of Columbia,Panamanian,Person
 28,Female,District of Columbia,Black or African American,Phlebotomist
 46,Male,District of Columbia,Dominican,Community Service Manager
 23,Male,District of Columbia,White,Public Relations Specialist
 27,Female,District of Columbia,White,Middle School Teacher
-68,Female,District of Columbia,White, 
-52,Male,District of Columbia,Some Other Race, 
+68,Female,District of Columbia,White,Person
+52,Male,District of Columbia,Some Other Race,Person
 44,Male,District of Columbia,Salvadoran,Cosmetologist
-80,Female,District of Columbia,White, 
+80,Female,District of Columbia,White,Person
 43,Male,District of Columbia,White,Judicial Worker
-86,Female,District of Columbia,Black or African American, 
+86,Female,District of Columbia,Black or African American,Person
 27,Female,District of Columbia,White,Postsecondary Teacher
-1,Female,District of Columbia,Black or African American, 
+1,Female,District of Columbia,Black or African American,Person
 33,Female,District of Columbia,White,Judicial Worker
 26,Male,District of Columbia,Black or African American,Communication Equipment Worker
 33,Male,District of Columbia,White,Administrative Services Manager
-61,Male,District of Columbia,Black or African American, 
-86,Female,District of Columbia,White, 
+61,Male,District of Columbia,Black or African American,Person
+86,Female,District of Columbia,White,Person
 30,Male,District of Columbia,White,Judicial Worker
 53,Female,District of Columbia,Black or African American,Nursing Assistant
 20,Male,District of Columbia,Asian Indian,Auditing Clerk
 28,Female,District of Columbia,Black or African American,Nursing Assistant
-7,Male,District of Columbia,Black or African American, 
-87,Female,District of Columbia,Black or African American, 
+7,Male,District of Columbia,Black or African American,Person
+87,Female,District of Columbia,Black or African American,Person
 31,Female,District of Columbia,White,Human Resources Worker
-65,Male,District of Columbia,Black or African American, 
+65,Male,District of Columbia,Black or African American,Person
 54,Male,District of Columbia,Black or African American,Order Filler
 27,Female,District of Columbia,Nepalese,Management Analyst
 55,Female,District of Columbia,Black or African American,Community Service Manager
 24,Male,District of Columbia,Black or African American,Cafeteria Attendant
 41,Male,District of Columbia,White,Chief Executiv
-15,Male,District of Columbia,Black or African American, 
+15,Male,District of Columbia,Black or African American,Person
 61,Female,District of Columbia,Black or African American,Software Developer
 34,Male,District of Columbia,Asian Indian,Financial Services Sales Agent
-87,Male,District of Columbia,Black or African American, 
+87,Male,District of Columbia,Black or African American,Person
 35,Female,District of Columbia,Vietnamese,Development Manager
-16,Female,District of Columbia,Mexican, 
-58,Female,District of Columbia,White, 
-19,Male,District of Columbia,White, 
+16,Female,District of Columbia,Mexican,Person
+58,Female,District of Columbia,White,Person
+19,Male,District of Columbia,White,Person
 63,Female,District of Columbia,Black or African American,Building Cleaner
 74,Female,District of Columbia,White,Mathematical Science Occupation
 47,Male,District of Columbia,Black or African American,Stationary Engineer
-79,Male,District of Columbia,Black or African American, 
+79,Male,District of Columbia,Black or African American,Person
 71,Female,District of Columbia,Black or African American,Information Clerk
-4,Female,District of Columbia,White, 
-1,Female,District of Columbia,Black or African American, 
+4,Female,District of Columbia,White,Person
+1,Female,District of Columbia,Black or African American,Person
 50,Male,District of Columbia,Dominican,Chief Executiv
 36,Male,District of Columbia,Black or African American,Real Estate Broker
 24,Female,District of Columbia,White,Regional Planner
@@ -76,21 +76,21 @@ age,sex,state,combined_race,occupation
 25,Female,District of Columbia,White,Administrative Assistant
 28,Female,District of Columbia,Two or More Races,Marketing Manager
 38,Female,District of Columbia,White,Compliance Officer
-12,Female,District of Columbia,Ecuadorian, 
+12,Female,District of Columbia,Ecuadorian,Person
 26,Female,District of Columbia,White,Except Farm Product
-9,Male,District of Columbia,Black or African American, 
+9,Male,District of Columbia,Black or African American,Person
 51,Female,District of Columbia,Black or African American,Administrative Support Worker
 21,Male,District of Columbia,White,Office Clerk
-12,Male,District of Columbia,White, 
+12,Male,District of Columbia,White,Person
 30,Male,District of Columbia,White,Nuclear Medicine Technologist
 31,Female,District of Columbia,White,Cashier
-68,Female,District of Columbia,White, 
-12,Female,District of Columbia,Black or African American, 
-3,Female,District of Columbia,Two or More Races, 
-19,Male,District of Columbia,Black or African American, 
+68,Female,District of Columbia,White,Person
+12,Female,District of Columbia,Black or African American,Person
+3,Female,District of Columbia,Two or More Races,Person
+19,Male,District of Columbia,Black or African American,Person
 33,Female,District of Columbia,White,Designer
 33,Female,District of Columbia,White,Administrative Assistant
-45,Female,District of Columbia,Black or African American, 
+45,Female,District of Columbia,Black or African American,Person
 37,Female,District of Columbia,Black or African American,Administrative Support Worker
 27,Female,District of Columbia,Ecuadorian,Management Analyst
 46,Male,District of Columbia,White,Judicial Worker
@@ -98,4 +98,4 @@ age,sex,state,combined_race,occupation
 84,Female,District of Columbia,Black or African American,Social Worker
 44,Male,District of Columbia,Black or African American,Housekeeping Cleaner
 36,Female,District of Columbia,Two or More Races,News Analyst
-70,Male,District of Columbia,Black or African American, 
+70,Male,District of Columbia,Black or African American,Person
